@@ -1,4 +1,4 @@
-CREATE FUNCTION f_Convert( 
+CREATE FUNCTION fConvert( 
 
 @str NVARCHAR(4000), --要轉換的字元串 
 
